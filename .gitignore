@@ -1,0 +1,7 @@
+/vendor/srmklive
+/.idea
+/.vscode
+
+vendor 
+boostrap/cache
+node_modules
